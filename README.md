@@ -8,3 +8,6 @@ $Julie Germain
 $alm0814
 ## Favorite Professor
 ## EUID
+## EUID
+Julie Germain
+$$ alm0814
